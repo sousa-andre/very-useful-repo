@@ -1,8 +1,14 @@
 {
-    "portuguese": [
-        "ola", "boas", "bom dia", "boa noite", "boa tarde"
-    ],
-    "english": [
-        "hi", "sup", "good morning", "good night"
-    ]
+  "portuguese": [
+      "ola", "boas", "bom dia", "boa noite", "boa tarde"
+  ],
+  "english": [
+      "hi", "sup", "good morning", "good night"
+  ]
+"portuguese": [
+  "ola", "boas", "bom dia", "boa noite", "boa tarde"
+],
+"english": [
+  "hi", "sup", "good morning", "good night"
+]
 }
