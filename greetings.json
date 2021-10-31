@@ -7,5 +7,12 @@
     "bonne nuit",
     "bonne après-midi",
     "bonne soirée"
+  ],
+  "german": [
+    "hallo",
+    "guten morgen",
+    "guten nacht",
+    "guten abend",
+    "guten mittag"
   ]
 }
