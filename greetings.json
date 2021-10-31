@@ -1,8 +1,18 @@
 {
-    "portuguese": [
-        "ola", "boas", "bom dia", "boa noite", "boa tarde"
-    ],
-    "english": [
-        "hi", "sup", "good morning", "good night", "good afternoon"
-    ]
+  "portuguese": ["ola", "boas", "bom dia", "boa noite", "boa tarde"],
+  "english": ["hi", "sup", "good morning", "good night", "good afternoon"],
+  "french": [
+    "bonjour",
+    "bonsoir",
+    "bonne nuit",
+    "bonne après-midi",
+    "bonne soirée"
+  ],
+  "german": [
+    "hallo",
+    "guten morgen",
+    "guten nacht",
+    "guten abend",
+    "guten mittag"
+  ]
 }
