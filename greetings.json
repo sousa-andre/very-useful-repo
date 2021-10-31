@@ -50,5 +50,12 @@
     "-.--",
     "--.."
   ],
-  "latin": ["salve", "bon giorno", "buona sera", "buonasera", "buongiorno"]
+  "latin": ["salve", "bon giorno", "buona sera", "buonasera", "buongiorno"],
+  "russian": [
+    "привет",
+    "здравствуйте",
+    "здравствуйте",
+    "здравствуйте",
+    "здравствуйте"
+  ]
 }
